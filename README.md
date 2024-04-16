@@ -1,4 +1,4 @@
-Certainly! Here's a clear README file on how to set up and run the application:
+
 
 ---
 
